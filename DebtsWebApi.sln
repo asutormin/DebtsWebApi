@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebtsWebApi", "DebtsWebApi\DebtsWebApi.csproj", "{9733C4BF-1142-4E4E-8630-24387CBB907C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE73FCFF-6D39-474F-B3A8-D8D1CEB76110}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9733C4BF-1142-4E4E-8630-24387CBB907C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9733C4BF-1142-4E4E-8630-24387CBB907C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9733C4BF-1142-4E4E-8630-24387CBB907C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9733C4BF-1142-4E4E-8630-24387CBB907C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F3C95D-4202-40B2-B953-4353AD08E078}
+	EndGlobalSection
+EndGlobal
